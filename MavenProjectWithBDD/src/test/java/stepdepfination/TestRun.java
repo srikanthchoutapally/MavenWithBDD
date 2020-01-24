@@ -6,7 +6,7 @@ import cucumber.api.CucumberOptions;
 import cucumber.api.junit.Cucumber;
 
 @RunWith(Cucumber.class)
-@CucumberOptions(features="E:\\eclipse-workspace\\MavenProjectWithBDD\\Features\\login.feature",
+@CucumberOptions(features="C:\\Users\\Srikanth\\git\\MavenWithBDD\\MavenProjectWithBDD\\Features\\login.feature",
 glue = "stepdepfination",
 				
 		monochrome=true
